@@ -124,18 +124,6 @@ Advanced data structure implementations from scratch: Stack, Queue, Doubly Linke
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Ahmad-Mallad&theme=tokyonight&hide_border=true)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ahmad-Mallad&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/Ahmad-Mallad)
-
-</div>
-
----
-
 <div align="center">
 
 *"Clean code always looks like it was written by someone who cares."*
