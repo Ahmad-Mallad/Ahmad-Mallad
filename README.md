@@ -106,13 +106,31 @@ A dynamic portfolio and resume management platform that lets professionals creat
 
 ---
 
+### 🏦 [Course-11 — Bank Management System](https://github.com/Ahmad-Mallad/Course-11)
+> OOP Applications in C++ · ProgrammingAdvices.com
+
+A fully-featured bank management system in C++ covering client/user management, deposits, withdrawals, transfers, currency exchange, and a login system with role-based permissions.
+
+`C++` `OOP` `File I/O` `Visual Studio`
+
+---
+
+### 🧩 [Course-13 — Algorithms & Data Structures](https://github.com/Ahmad-Mallad/Course-13)
+> Algorithms Level 5 in C++ · ProgrammingAdvices.com
+
+Advanced data structure implementations from scratch: Stack, Queue, Doubly Linked List, Dynamic Array, and a real-world Queue Line ticketing system.
+
+`C++` `Data Structures` `Algorithms` `OOP`
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmad-Mallad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ahmad-Mallad&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Mallad&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Mallad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
