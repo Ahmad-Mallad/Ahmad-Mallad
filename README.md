@@ -130,7 +130,7 @@ Advanced data structure implementations from scratch: Stack, Queue, Doubly Linke
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ahmad-Mallad&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Mallad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ahmad-Mallad&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/Ahmad-Mallad)
 
 </div>
 
