@@ -124,6 +124,53 @@ Advanced data structure implementations from scratch: Stack, Queue, Doubly Linke
 
 ---
 
+## 📚 Continuous Learning
+
+<div align="center">
+
+### 🏅 16 Courses Completed on ProgrammingAdvices.com
+
+</div>
+
+I'm a strong believer that great developers are built through structured, deep learning — not shortcuts. I've completed **16 courses** on [**ProgrammingAdvices.com**](https://programmingadvices.com), a platform built on 30+ years of real-world software industry experience by **Dr. Mohammed Abu-Hadhoud**.
+
+The roadmap I followed covers everything from the ground up — computer science foundations, algorithms, problem solving, OOP, data structures, C++, C#, databases, and full-stack .NET development — building genuine programming intuition, not just syntax knowledge.
+
+```
+✅ Course 01 — Programming Foundations Level 1
+✅ Course 02 — Algorithms & Problem Solving Level 1
+✅ Course 03 — Introduction to Programming with C++ Level 1
+✅ Course 04 — Algorithms & Problem Solving Level 1 (Solutions)
+✅ Course 05 — Algorithms & Problem Solving Level 2
+✅ Course 06 — Introduction to Programming with C++ Level 2
+✅ Course 07 — Algorithms & Problem Solving Level 3
+✅ Course 08 — Algorithms & Problem Solving Level 4
+✅ Course 09 — Foundations Level 2
+✅ Course 10 — OOP as it Should Be (Concepts)
+✅ Course 11 — OOP as it Should Be (Applications)        → See repo
+✅ Course 12 — Data Structures Level 1                   → See repo
+✅ Course 13 — Algorithms & Problem Solving Level 5      → See repo
+✅ Course 14 — C# Level 1
+✅ Course 15 — Database Level 1 — SQL
+✅ Course 16 — OOP as it Should Be in C#                 → See repo
+```
+
+> 🔗 [Explore the full roadmap](https://programmingadvices.com/p/roadmap)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ahmad-Mallad&theme=tokyonight&hide_border=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ahmad-Mallad&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/Ahmad-Mallad)
+
+</div>
+
+---
+
 <div align="center">
 
 *"Clean code always looks like it was written by someone who cares."*
